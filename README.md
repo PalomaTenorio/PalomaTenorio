@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá👋
 
 Eu sou Paloma Helena, sou uma programadora Front End, estou estudando para me tornar uma Full Stack :mortar_board:
 
